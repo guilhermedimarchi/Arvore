@@ -1,0 +1,14 @@
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\Testes.dll
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\Testes.pdb
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\ExercArvore.exe
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\ExercArvore.pdb
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\obj\Debug\Testes.dll
+C:\Users\132173\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\obj\Debug\Testes.pdb
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\Testes.dll
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\Testes.pdb
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\ExercArvore.exe
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\bin\Debug\ExercArvore.pdb
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\obj\Debug\Testes.dll
+C:\Users\Guilherme\Desktop\ExercArvore-TestesUnitarios\ExercArvore\Testes\obj\Debug\Testes.pdb
